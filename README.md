@@ -10,7 +10,7 @@
     - Listing the discovered services within interactive user interface.
     - Access to web admin interface of each services.
 
-- **Pending Adventures**:
+- **Pending**:
     - Working and finalising the "Add Printer" part.
     - Final testing and issue reporting for System Config Printer
 
